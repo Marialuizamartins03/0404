@@ -19,4 +19,13 @@
     }
     .finalidade{
         background-image: linear-gradient(#EFBBBB, #FDFDFD);
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding-top: 130px ;
+        padding-bottom: 130px;
+    }
+    .imagemfinalidade{
+        width: 450px;
+        height: 300px;
     }
