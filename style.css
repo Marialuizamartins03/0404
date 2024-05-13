@@ -29,3 +29,17 @@
         width: 450px;
         height: 300px;
     }
+    .informativo{
+        font-family: "Jockey One", sans-serif;
+        font-weight: 400;
+        font-size: 48px;
+        font-style: normal;
+        text-align: justify;
+        color: #2B2A4C;
+        width: 66%;
+    }
+    .inspirações{
+        background-color: #2B2A4C;
+        padding-top: 7px;
+        padding-bottom: 100px;
+    }
