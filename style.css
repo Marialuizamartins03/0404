@@ -43,3 +43,21 @@
         padding-top: 7px;
         padding-bottom: 100px;
     }
+    .inspirações-titulo{
+        font-family: "Jockey One";
+        font-weight: 50;
+        font-size: 120px;
+        font-style: normal;
+        color: #F5F5F5;
+        text-align: center;
+        margin-left: 140px;
+        margin-top: 40px;
+    }
+    .inspirações-imgem{
+        margin: 95px;
+        margin-top: 50px;
+        margin-bottom: 10px;
+        display: flex;
+        justify-content: space-around;
+    }
+    
